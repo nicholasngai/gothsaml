@@ -1,4 +1,4 @@
-module github.com/pelicaned/gothsaml
+module github.com/nicholasngai/gothsaml
 
 go 1.17
 
